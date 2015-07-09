@@ -1,0 +1,177 @@
+/* --------------- Structure --------------- */
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #0F3B5F;
+}
+#header {
+	background-color: #E5DBCF;
+	width: 100%;
+	height: 75px;
+	margin-top: -25px;
+	border-bottom: 2px solid #6C7476;
+}
+#container {
+	width: 900px;
+	height: auto;
+	margin: auto;
+	background-color: #E5DBCF;
+	border-radius: 25px;
+	padding: 25px;
+	border: 2px solid #6C7476;
+}
+#button_container {
+	width: 900px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #0F3B5F;
+	padding: 25px;
+	text-align: center;
+}
+.blurb {
+	border-radius: 10px;
+	border: 2px solid red;
+	font-family: Eurostile, Verdana;
+	color: #0F3B5F;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+	font-size: 20px;
+	width: 800px;
+}
+.thumbnail {
+	height: 200px;
+	width: 200px;
+	border-radius: 15px;
+	border: 2px solid #6C7476;
+	margin: 10px;
+	float: left;
+}
+.nametext {
+	text-align: center;
+	font-family: Eurostile, Verdana;
+	font-size: 30px;
+	color: #0F3B5F;
+	margin-top: 70px;
+}
+.nametext_container {
+	height: 200px;
+	width: 200px;
+	border-radius: 15px;
+	margin: 10px 10px 10px -215px;
+	float: left;
+}
+.thumbnail_fade {
+	opacity: 0.20;
+}
+.hoverable:hover {
+	opacity: 0.30;
+}
+.selected_thumbnail {
+	border: 2px solid red;
+}
+div h2 {
+	font-family: Eurostile, Verdana;
+	font-size: 30px;
+	color: #0F3B5F;
+	text-align: center;
+	padding-top: 20px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+input {
+	float: left;
+}
+.button:hover {
+	opacity: 0.75;
+}
+.button {
+	font-family: Eurostile, Verdana;
+	font-size: 20px;
+	color: #0F3B5F;
+	display: inline;
+	float: none;
+	padding: 10px 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #E5DBCF;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 2px solid #6C7476;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 10px rgba(087,087,087,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 10px rgba(087,087,087,0.7);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 10px rgba(087,087,087,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+
+.clear { clear: both; }
+.hidden { display: none; }
+
+/* --------------- Structure --------------- */
+
+
+
+
+
+
+
+/* --------------- People --------------- */
+
+#sybil_crawley {
+  background-image:url('sybil_crawley.jpg');
+}
+#cora_crawley {
+  background-image:url('cora_crawley.jpg');
+}
+#mary_crawley {
+  background-image:url('mary_crawley.jpg');
+}
+#robert_crawley {
+  background-image:url('robert_crawley.jpg');
+}
+#anna_smith {
+  background-image:url('anna_smith.jpg');
+}
+#isobel_crawley {
+  background-image:url('isobel_crawley.jpg');
+}
+#mrs_hughes {
+  background-image:url('mrs_hughes.jpg');
+}
+#matthew_crawley {
+  background-image:url('matthew_crawley.jpg');
+}
+#john_bates {
+  background-image:url('john_bates.jpg');
+}
+#mr_carson {
+  background-image:url('mr_carson.jpg');
+}
+#violet_crawley {
+  background-image:url('violet_crawley.jpg');
+}
+#edith_crawley {
+  background-image:url('edith_crawley.jpg');
+}
+
+
+/* ---------- People ---------- */
