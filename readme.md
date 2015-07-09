@@ -1,0 +1,1 @@
+This is a photo directory I made for a church congregation I was part of. Obviously, names and pictures have been changed :) When you click on a picture, informatino such as phone number, email, address, or description come up.
